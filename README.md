@@ -1,20 +1,20 @@
-# Analysis of TK data set — MM/YYYY to MM/YYYY
+# Analysis of voluntary departures data set — FY 2007 - 2017
 
 This repository contains data, analytic code, and findings that support portions of the article, “[TKTKTKTK](https://www.google.com),” published Month Date, Year. Please read that article, which contains important context and details, before proceeding.
 
 ## Data
 
-This analysis uses TKTKTK spreadsheets.
+This analysis uses Excel spreadsheets.
 
 The spreadsheets come from the following sources:
 
 - Name of source:
-  - `name_of_spreadsheet.xlsx`: Raw data of TKTKTK
+  - `voluntary_departure_FY_2007-2017.xlsx`: Raw data from the Department of Justice
 
 Each of the spreadsheets contain, among others, the following columns relevant to the analysis:
 
-- `tktktk` — TK description
-- `tktktk` — TK description
+- 'voluntary_departure' — the total of total removal decisions, total of voluntary departure decisions, and the percent voluntary departure by fiscal year for the last 10 years. 
+
 
 ## Methodology
 
